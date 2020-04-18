@@ -16,11 +16,11 @@ Instructions tested with a Raspberry Pi 3 with an 8GB and 16GB  memory card.
 
 * Run sudo raspi-config and configure the basics:
 
-** Set up your keyboard layout (It defaults to a British keyboard layout)
-** Change default user password
-** Enable the Raspberry Pi camera (if you have one attached)
-** Configure gpu memory split under 'Advanced'. Set it up '16'.
-** Save changes and reboot.
+	* Set up your keyboard layout (It defaults to a British keyboard layout)
+	* Change default user password
+	* Enable the Raspberry Pi camera (if you have one attached)
+	* Configure gpu memory split under 'Advanced'. Set it up '16'.
+	* Save changes and reboot.
 Install required libraries with these commands:
 ```bash
 sudo apt-get update
