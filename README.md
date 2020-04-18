@@ -71,11 +71,18 @@ sudo apt update
 sudo apt install python3-opencv
 ```
 ## Demo of the smart Cap
-![Cap which is 3D printed](demo/demo3.jpg)
+
+3D printed cap:
+
+![](demo/demo3.jpg)
 
 Real time testing:
+
 ![](demo/demo1.jpg)![](demo/demo2.jpg)
-![Testing of the hardware](demo/demo.gif)
+
+Testing of hardware:
+
+![](demo/demo.gif)
 
 ## Paper
 ```bash
