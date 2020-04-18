@@ -76,5 +76,5 @@ sudo apt install python3-opencv
 ## Paper for reference
 ```bash
 L. Boppana, P. Kumari, R. Chidrewar and P. K. Gadde, "Smart Cap for Alzheimer Patients using Deep Learning," TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Kochi, India, 2019, pp. 2466-2471.
-<https://ieeexplore.ieee.org/abstract/document/8929412>
+[Smart Cap for Alzheimer Patients using Deep Learning]( https://ieeexplore.ieee.org/abstract/document/8929412 )
 ```
